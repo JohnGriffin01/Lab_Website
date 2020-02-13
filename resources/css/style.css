@@ -1,0 +1,10 @@
+.table{
+  padding: 4px;
+  text-align: center;
+}
+.center{
+  text-align: center;
+}
+th{
+  vertical-align: bottom;
+}

@@ -1,0 +1,10 @@
+/* Add any css you want to use for you website here */
+*,
+*:before,
+*:after {
+ padding: 0;
+ margin: 0;
+}
+.col-8{
+  width: 200px;
+}

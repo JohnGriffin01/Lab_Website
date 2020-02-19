@@ -1,0 +1,7 @@
+.interests{
+  display: flex;
+  flex-direction: row;
+}
+.container{
+  color: yellow;
+}
